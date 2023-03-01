@@ -3,8 +3,8 @@
 ### Vecka 9
 #### Lektion 1 (27/2)
 Idag har jag skapat ett repository på GitHub och delat det med de andra. Sedan har jag berättat för de andra i gruppen hur vi delar filerna via GitHub Desktop. 
-#### Lektion 2 (28/2)'
-
+#### Lektion 2 (28/2)
+Idag har jag satt up GitHub delande för sista i gruppen, evaluerat och diskuterat om wireframes. Jag har också väntat på att få reda på temat och testat lite på hur delningen med filerna på GitHub funkar.
 ### Vecka 10
 #### Lektion 1 ()
 #### Lektion 2 ()

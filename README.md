@@ -9,7 +9,7 @@ Idag har jag satt up GitHub delande för sista i gruppen, evaluerat och diskuter
 #### Lektion 1 (6/3)
 Idag har jag tagit fram call to action kort som skas användas för att diregera om läsare till andra artiklar. Jag har också sammanställt en wireframe för hur artiklarna ska se ut. Vi har också diskuterat om logotypen.
 #### Lektion 2 (7/3)
-Vi har valt att inte ha några sociala medier på sidan för att ta bort fokuset ifrån oss, och leda det till innehållet. 
+Vi har valt att inte ha några sociala medier på sidan för att ta bort fokuset ifrån oss, och leda det till innehållet. Vi
 ### Vecka 11
 #### Lektion 1 ()
 #### Lektion 2 ()

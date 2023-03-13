@@ -11,7 +11,8 @@ Idag har jag tagit fram call to action kort som skas användas för att diregera
 #### Lektion 2 (7/3)
 Vi har valt att inte ha några sociala medier på sidan för att ta bort fokuset ifrån oss, och leda det till innehållet. Jag har skapat alla html filer som kommer användas samt namnget dem på ett logiskt sätt. Jag har skapat en sitemap för hemsidorna. Jag har börjat med dokumentet som kommer bli styleguiden, jag har hitils lagt in business objectives, sitemap och färg scheman.
 ### Vecka 11
-#### Lektion 1 ()
+#### Lektion 1 (13/3)
+Idag har jag beskrivit vad businessobjectivesen betyder, skrivit vart vilken font ska användas och gjort om CTA korten online samt infogat dem till dokumentationen. Jag har också hittat en widget vi ska använda och undersökt vilka bootstrap element vi ska använda samt vilka av dem som kräver JavaScript. Resten av tiden har använts för att få Otto att förstå att han kan öppna dokumentet efter jag hade delat det till honnom.
 #### Lektion 2 ()
 ### Vecka 12
 #### Lektion 1 ()
